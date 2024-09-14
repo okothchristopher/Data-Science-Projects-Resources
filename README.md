@@ -63,6 +63,10 @@ The purpose of this project is ________. (Describe the main goals of the project
 * [Blog Post](link)
 
 ## Results and Outcomes 
+Should include interesting outcomes or visualizations. 
+For example, in a dashboarding project. 
+![image](https://github.com/user-attachments/assets/719c8ba7-a0a7-4778-a4f5-2eaaf109d71f)
+
 
 ## Acknowledgements and Attributions 
 
